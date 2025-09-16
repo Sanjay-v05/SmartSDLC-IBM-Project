@@ -1,24 +1,24 @@
 # SmartSDLC-IBM-Project
 
- ## 👥 Team leader
+ ##  Team leader
  -Sanjay V
 
-## 👥 Team Members
+##  Team Members
 - Sathish.AS
 - Tamilselvan.S
 - Abinash.V
 
-## 📝 Overview  
+## Overview  
 This project demonstrates the **Smart Software Development Life Cycle (SmartSDLC)** model under the Naan Mudhalvan / IBM SkillsBuild program.  
 It focuses on applying AI tools and structured analysis to make software development smarter, faster, and more reliable.  
 
-## 🚀 Features  
+##  Features  
 - Organized SDLC process with AI-powered assistance  
 - Requirement analysis & simple automation examples  
 - Clear project documentation and demo walkthrough  
 - Easy-to-run Python scripts for testing and learning  
 
-## 📁 Repository Structure  
+##  Repository Structure  
 - **/code** → Python files for analysis and demo  
 - **/docs** → Supporting project materials  
 - **README.md** → Project summary and usage guide
@@ -38,7 +38,7 @@ This video highlights:
 
 
 
-## ⚡ How to Run  
+##  How to Run  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Sanjay-v05/SmartSDLC-IBM-Project.git
