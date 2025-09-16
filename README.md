@@ -13,7 +13,10 @@ It focuses on applying AI tools and structured analysis to make software develop
 ## 📁 Repository Structure  
 - **/code** → Python files for analysis and demo  
 - **/docs** → Supporting project materials  
-- **README.md** → Project summary and usage guide  
+- **README.md** → Project summary and usage guide
+
+## Health AI Output
+![Health AI Output](Health_ai_output.png)
 
 ## 🎬 Project Walkthrough  
 A short demo video is available here:  
