@@ -16,7 +16,7 @@ It focuses on applying AI tools and structured analysis to make software develop
 - **README.md** → Project summary and usage guide
 
 ## Health AI Output
-![Health AI Output](Health_ai_output.png)
+![Health AI Output](output_image.png)
 
 ## 🎬 Project Walkthrough  
 A short demo video is available here:  
